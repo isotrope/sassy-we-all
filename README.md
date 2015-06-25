@@ -28,9 +28,13 @@
                                                                                
 
 # sassy-we-all
-CSS prepro`enter code here`cessors 101
+CSS preprocessors 101
 
 
 ## Essential Downloads
 [Node.js](https://nodejs.org/download/)
+
 [cmder](http://gooseberrycreative.com/cmder/) (for Windows users; get the BIG version that includes **msysgit**)
+( you might need to install [http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x86.exe] if you get a "api-ms-win-crt-runtime-l1-1-0.dll is missing" error when launching cmder)
+
+If ever you hit the gulp is not a recognized command: [http://stackoverflow.com/questions/20992723/npm-is-not-recognized-as-internal-or-external-command-operable-program-or-bat]

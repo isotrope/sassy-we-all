@@ -44,6 +44,7 @@ gulp.task('dev-css', function () {
 			})
 		)
 	)
+		.pipe(autoprefixer())
 		.pipe(sourcemaps.write({includeContent: true}))
 		.pipe(gulp.dest('./'))
 		.pipe(notify('Dev-CSS task complete!'));
